@@ -1,9 +1,18 @@
-# Data Science Projects
+# CODSOFT Data Science Projects
+
+## IMDB Movie Rating Prediction
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phazarika-pixel/CODSOFT/blob/main/IMDB%20Movie%20Rating%20Prediction/Movie_Rating_Prediction.ipynb)
+
+## Iris Flower Classification
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phazarika-pixel/CODSOFT/blob/main/Iris%20Flower%20Classification/Iris_Flower_Classification.ipynb)
+
+## Titanic Survival Prediction
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phazarika-pixel/CODSOFT/blob/main/Titanic%20Survival%20Prediction/Titanic_Survival_Prediction.ipynb)
+
 
 This repository contains Data Science and Machine Learning projects built using Python and Scikit-learn for my CodSoft Internship. The projects focus on data preprocessing, exploratory data analysis, model training, and evaluation using real-world datasets.
 # IMDB Movie Rating Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/phazarika-pixel/CODSOFT/blob/main/IMDB%20Movie%20Rating%20Prediction/Movie_Rating_Prediction.ipynb)
 
 ## Projects Included
 
